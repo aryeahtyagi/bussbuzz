@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281761532970",
+    "project_id": "buswakeup-fc92c",
+    "storage_bucket": "buswakeup-fc92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281761532970:android:8a2a484926ebe0f3e94753",
+        "android_client_info": {
+          "package_name": "com.fortradestudio.busbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281761532970-jf8b20govh553pn3g60c86ha1gv9i0sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLjH7G2LN__0QPu5uUOUQ8acOouTdrF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281761532970-jf8b20govh553pn3g60c86ha1gv9i0sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
